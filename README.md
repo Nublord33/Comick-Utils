@@ -10,4 +10,4 @@ and copy that into publisher variable
 const targets = ["yuri"];
 const targets = ["yuri", "romance"];
 
-3) run the file running ``publish-to-url.js``
+3) run the file running ``node publish-to-url.js``
